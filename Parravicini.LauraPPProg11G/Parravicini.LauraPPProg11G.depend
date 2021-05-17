@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621291014 source:c:\users\usuario\desktop\utn\programacion 1\parravicini.laura.ppprogr1.1g\parravicini.laurappprog11g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
